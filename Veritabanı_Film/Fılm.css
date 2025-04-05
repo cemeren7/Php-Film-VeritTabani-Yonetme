@@ -1,0 +1,23 @@
+.width {
+  width: 450px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .width {
+    max-width: 350px;
+  }
+  form {
+    margin-bottom: 30px;
+  }
+}
