@@ -1,1 +1,17 @@
-Herkese Merhabalar Bu Benim Gitub Üzerinde Yayınladıgım İlk Php Projesidir. Projenin Genel Amacı Oluşturulan fılmler Veri tabanına ait fılm tablosu üzerinde kaydetme,silme,güncelleme gibi geniş kapsamlı düzenlemeler yapmanızı saglar. Oluşturdugum Tablo Dosyası Projenin İçinde Bulunmaktadır. Bu Tabloyu Php Üzerinden Dışa aktar işlemi ile alabilirsiniz Kod Yapısında Mutlaka Oluşturdugunuz Php Veri Tabanının İsmini Degiştirmeyi Unutmayınız. Herhangi bir şifre veya kullanıcı adı yoktur. İyi Çalışmalar 
+🎬 PHP Film Yönetim Projesi
+- Bu, benim GitHub üzerinde yayınladığım ilk PHP projemdir.
+
+📌 Projenin Amacı
+- Oluşturulan filmleri, veri tabanına ait film tablosu üzerinde:
+- Kaydetme
+- Silme
+- Güncelleme
+gibi işlemleri yapmanızı sağlar.
+
+📂 Veri Tabanı
+- Proje içerisinde tablo dosyası bulunmaktadır.
+- Bu tabloyu PHP üzerinden dışa aktar işlemiyle alabilirsiniz.
+- Kod yapısında mutlaka kendi oluşturduğunuz PHP veri tabanının ismini değiştirmeyi unutmayınız.
+- 
+🔑 Giriş Bilgileri
+- Herhangi bir kullanıcı adı veya şifre bulunmamaktadır.
